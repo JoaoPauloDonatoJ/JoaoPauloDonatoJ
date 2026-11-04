@@ -1,6 +1,6 @@
 # Hi 👋, I'm João Paulo Donato
 
-### Junior Software Developer | .NET & Next.js
+### Junior Software Developer | .NET
 
 - 🔭 I'm currently working on **Web applications and APIs using C#, ASP.NET Core, Entity Framework, SQL Server, and Next.js (React) at Viveo.**
 
